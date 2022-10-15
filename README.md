@@ -1,0 +1,1 @@
+# -ndice-de-Desenvolvimento-da-Educa-o-B-sica-Ideb-
