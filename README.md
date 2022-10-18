@@ -1,6 +1,3 @@
-# Projeto em Desenvolvimento
---------------------------------------------------------------
-
 # Índice de Desenvolvimento da Educação Básica (Ideb)
 
 ![image](https://user-images.githubusercontent.com/69591172/196001507-946274ed-bab1-4538-ae43-34887b0a04ab.png)
