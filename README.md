@@ -8,4 +8,4 @@ Os dados foram obtidos através da Base dos Dados. [Clique aqui para ter acesso]
 
 O objetivo deste projeto foi realizar uma **Análise Exploratória dos Dados** de modo a identificar insights que possibilitem o entendimento do cenário da Educação Básica visando tomadas de decisão "data-driven".
 
-**Obs: Para uma visualização otimizada do notebook, por favor, [acesse este link](https://nbviewer.org/github/gustavolenin/Indice-de-Desenvolvimento-da-Educacao-Basica-Ideb-/blob/main/notebook/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica_%28Ideb%29.ipynb)**.
+**Obs: Para uma visualização otimizada do notebook, por favor, [acesse este link]()**.
