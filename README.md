@@ -7,3 +7,5 @@ O Índice de Desenvolvimento da Educação Básica (Ideb) foi criado em 2007 e r
 Os dados foram obtidos através da Base dos Dados. [Clique aqui para ter acesso](https://basedosdados.org/dataset/br-inep-ideb?bdm_table=brasil).
 
 O objetivo deste projeto foi realizar uma **Análise Exploratória dos Dados** de modo a identificar insights que possibilitem o entendimento do cenário da Educação Básica visando tomadas de decisão "data-driven".
+
+Obs: Caso haja algum erro na visualização do notebook, por favor, [acesse este link](https://nbviewer.org/github/gustavolenin/Indice-de-Desenvolvimento-da-Educacao-Basica-Ideb-/blob/main/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica_%28Ideb%29.ipynb). 
